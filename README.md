@@ -9,4 +9,4 @@ A text Editor and create a file with extension ```.feature```
 Create the most quantity of Possible Scenarios.
 
 ## Exercises 
-[Excercise](https://github.com/jdelarosa08/gherkin_training/exercise/exercise.txt)
+[Excercise](https://github.com/jdelarosa08/gherkin_training/blob/main/exercise/exercises.txt)
