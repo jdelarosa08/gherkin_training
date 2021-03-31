@@ -1,0 +1,39 @@
+Project: Training 
+Moduel: None 
+Created By: Joan De la Rosa.
+Created Date: 2021/3/30 
+
+Testcase ID                  -  Testcase Description 
+Test The Purchase on Amazon  -   Verify that is posible 
+                                 make a Purchase on amazon 
+                                 Website
+
+Test Steps                          -       Expect Result 
+1 - Go to www.Amazon.com            -       Access to the Site and Shown the Home Page    
+2 - Click the Modal Sign-in          -       shown the login page 
+3 - Add the Users and Password      -       Redirect to the Homepage. 
+4 - Search a Product <name>         -       There should return a List of products <name>
+5 - Select a Product from the 
+    list and add this to the Cart   -       The Car icon should increase the number of items in it.
+6 - Click the cart icon             -       The user should be redirected to the Cart Page view.
+7 - Click on Proceed to check out    -       the user should redirect to select a shipping address page.
+8 - Click Select a Shipping address
+    and Save                        -       the user should be able to  see options for selecting a shipping address
+9 - Choose your shipping options    -       the user could be select to free prime delivery, free shipping, and shipping charges 
+                                            and the user should be able to navigate to the next page.
+10 - Select payment method, the 
+quantities                          -       The user should be able to select the saved credit card. and is able to navigate 
+                                            to the Review your order page and enter a promotional code. 
+11 - Review your Order              -       The Address provided in the shipping address should be visible, 
+                                            The user should be able to change the shipping address
+                                            The user should be able to check the payment method 
+                                            The Card details should be in the masked format
+                                            The user should be able to see the billing address 
+12 - Click place your order         -        the User should get an order confirmation message/email                                                                          
+
+
+Note:
+* You Should have an Amazon Shopping account valid
+* You Should have a payment method added
+* You Should have a Shipping and Billing Address added 
+* You Should search for a product with existents 
